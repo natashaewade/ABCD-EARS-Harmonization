@@ -57,7 +57,7 @@ The example code for how to process and analyze EARS data can be found in the fo
 - Cleaning of the data in the ears-hourly-binning.R code is similar to that of the summary data provided by Ksana Health and described in the Supplement to the primary manuscript.
  Briefly, this means that we remove apps that can run for close to 24 hours (see list below). We further remove observations longer than 20 hours.
 
-## Removed apps:
+**Removed apps:**
 
 - `com.android.systemui`
 - `com.lge.qmemoplus`
